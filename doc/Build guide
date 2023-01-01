@@ -1,0 +1,4 @@
+Enter the follwoing command to compile all header and source file(make sure your directory is in /bin):
+
+g++ ../inc/DataManagement.h ../inc/genann.h ../src/DataManagement.c ../src/genann.c ../src/main.c
+
